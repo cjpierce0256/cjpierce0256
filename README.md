@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cjpierce0256
 - 👀 I’m interested in learning anything and everything
-- 🌱 I’m currently learning/studying (electrical) engineering
+- 🌱 I’m currently learning/studying information systems
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me cjpierce0256@gmail.com
 
